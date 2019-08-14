@@ -22,7 +22,7 @@
 <br>
 <input type="submit" value="Log in">
 <br>
-<input type="checkbox" name "checkbox" value="another's computer "> another's computer
+<input type="checkbox" value="another's computer "> another's computer
 <br>
 <pre><a href="password.html" target="">Forgot your password?</a>         <a href="Registration.html" target="">Registration</a></pre> 
 </form>
